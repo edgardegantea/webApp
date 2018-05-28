@@ -1,5 +1,12 @@
-<?php include_once '../webApp/plantilla/menu.php'; ?>
+<link href="assets/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
 
 
-<?php echo "Mi primer proyecto php" ?>
+<?php include './web/sesion/login.php'; ?>
+<link href="" rel="stylesheet"/>
 
+
+<html>
+	<h1>
+	
+	</h1>
+</html>
