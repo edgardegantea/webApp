@@ -1,0 +1,12 @@
+#menu{
+    padding: 20px;
+    display: block;
+    background-color: white;
+    color: blue;
+}
+
+div.ulMenu{
+    background-color: black;
+    color: white;
+    display: inline-block;
+}
